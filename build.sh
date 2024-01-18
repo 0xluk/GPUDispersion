@@ -10,5 +10,5 @@ cd ecmongpu
 mkdir build
 cd build
 cmake ..
-make -j4
+make cuda-ecm -j4
 
